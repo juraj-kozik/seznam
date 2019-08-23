@@ -1,1 +1,1 @@
-# seznam
+Tato aplikace umožňuje uživateli komunikovat po sériovém portu. Lze nastavit sériový port, např. jeho rychlost, stop bity a další. Aplikace poskytuje možnost posílat raw data, instrukce a soubory. Dále tato aplikace umožňuje šifrovat data pomocí RSA a soubory pomocí AES. Pro aplikaci bylo také navrhnuto a vytvořeno grafické uživatelské rozhraní pomocí Qt frameworku.
